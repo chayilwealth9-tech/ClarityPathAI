@@ -1,1 +1,148 @@
 
+ClarityPath AI PRD
+
+ Product Name
+
+ClarityPath AI – Personalized AI learning path recommender.
+
+ Problem Statement
+Learners struggle to decide what to learn next due to the overwhelming number of courses, unclear career goals, and lack of personalized guidance. This leads to wasted time, confusion, poor skill alignment, and low learning completion rates.
+
+Goal
+-Provide learners with a clear, AI-generated learning roadmap based on their goals, skills, and background.
+
+-Help learners stay consistent and achieve career or personal development objectives.
+
+Target Users
+
+Students
+
+Fresh graduates
+
+Self-learners
+
+Tech career switchers
+
+Working professionals
+
+Companies training staff
+
+Key Features
+
+1. User Input – Collect learning goals, skills, background, learning style, time availability.
+
+2. Skill Assessment – AI evaluates current skill level and gaps.
+
+3. Learning Path Generation – AI generates structured step-by-step roadmap.
+
+4. Course/Resource Recommendations – Suggests courses, YouTube playlists, tools, or exercises.
+
+5. Weekly Task Planner – Breaks roadmap into weekly tasks.
+
+6. Progress Tracking – Users can mark completed/in-progress tasks.
+
+7. Save/Export Options – PDF or Notion export for later reference.
+
+ AI Use
+
+Recommendation system (suggest courses & tasks)
+
+User profiling (skills, goals, preferences)
+
+Learning path generation
+
+Competitors / Market Gap
+
+1.Coursera / Udemy: offers course recommendations but there's no structured, step-by-step roadmap personalized by AI
+
+2. Skillshare:topic suggestions but no goal-aligned learning paths
+
+3.EdApp / Degreed: corporate learning & analytics. It is complex, not beginner-friendly
+
+4.Pathrise / CareerFoundry:Mentor-guided paths but human-led, not automated by AI
+
+Opportunity: ClarityPath AI fills the gap for fast, personalized, structured, and automated learning path
+ 
+User Stories & Acceptance Criteria
+
+User Story 1:
+As a student, I want to input my learning goals and current skills so the AI can generate a personalized roadmap.
+
+Acceptance Criteria:
+
+User can enter goals and skills through a form or text input
+
+AI responds with a structured learning path
+
+User Story 2:
+As a self-learner, I want weekly tasks from my learning path so I can track progress.
+
+Acceptance Criteria:
+
+AI breaks roadmap into weekly tasks
+
+User can mark tasks as completed or in-progress
+
+User Story 3:
+As a working professional, I want course and resource suggestions aligned with my goals.
+
+Acceptance Criteria:
+
+AI recommends courses, videos, and exercises relevant to user goals
+
+Recommendations include level and estimated time
+
+User Story 4:
+As a tech career switcher, I want to save/export my learning path so I can follow it offline or in another tool.
+
+Acceptance Criteria:
+
+User can download roadmap as PDF or export to Notion
+
+User Story 5:
+As a company training staff, I want to generate learning paths for multiple employees.
+
+Acceptance Criteria:
+
+Admin can input multiple profiles
+
+AI generates separate learning paths for each profile
+
+ Success Metrics
+
+Users can generate a personalized path in less than 5 minutes
+
+Learning path contains relevant, achievable tasks
+
+Users report improved clarity on “what to learn next”
+
+Workflow / User Flow
+
+1. User enters goals and background info
+
+2. AI analyzes input and evaluates skills
+
+3. AI generates personalized learning path
+
+4. User reviews roadmap and weekly tasks
+
+5. User tracks progress and saves/export path
+
+ Feasibility / Cost
+
+Prototype: Figma, Notion- minimal cost
+
+AI recommendation: free-tier OpenAI API
+
+Full deployment: budget for API usage and hosting
+
+Future Scope (Optional Features)
+
+Integration with Udemy/Coursera APIs
+
+AI quizzes for skill verification
+
+Job-role recommendations based on skills
+
+Mobile/web app version
+
